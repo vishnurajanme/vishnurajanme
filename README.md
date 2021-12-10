@@ -1,9 +1,57 @@
-- 👋 Hi, I’m @vishnurajanme
-- 👀 Presently working as Associate Professor at Sahrdaya College of Engineering & Technology, affiliated under Kerala Technological University, heading the department of Electronics & Communication and enjoying my life here.
-- 🌱 I’m currently learning on ways to develop android applications using kotlin and flutter
-- 📫 More info is available at drvishnurajan.wordpress.com
+<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
 
-<!---
-vishnurajanme/vishnurajanme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vishnurajanme.vishnurajanme)
+
+</p>
+<div size='20px'> I am Dr. Vishnu Rajan, presently working as an Associate Professor at Sahrdaya College of Engineering & Technology, affiliated under Kerala Technological University, heading the department of Electronics & Communication.
+</div>
+
+<h2> About Me </h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
+- 🔭 I’m currently working on The Stockist, a firebased flutter application for tracking daily profit/loss for small businesses
+
+- 🌱 I’m currently learning Flutter, Kotlin and Java 
+
+- 👯 I’m looking to collaborate on projects on AI, ML and IOT 
+
+- 💬 Talk to me about Python, Arduino, Raspberry Pi, Robotics 
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/vishnurajanme?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/vishnurajanme?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/vishnurajanme?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a href= https://github.com/vishnurajanme?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/vishnurajanme?tab=repositories&q=&type=&language=tensorflow&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg'> </a>
+<a href= https://github.com/vishnurajanme?tab=repositories&q=&type=&language=arduino&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'> </a>
+<a href= https://github.com/vishnurajanme?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
+<a href= https://github.com/vishnurajanme?tab=repositories&q=&type=&language=flutter&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
+<a href= https://github.com/vishnurajanme?tab=repositories&q=&type=&language=kotlin&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'> </a>
+<a href= https://github.com/vishnurajanme?tab=repositories&q=&type=&language=dart&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'> </a>
+
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/vishnurajanme'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://drvishnurajan.wordpress.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/vishnurajanme'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+
+![Metrics](https://metrics.lecoq.io/vishnurajanme?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://drvishnurajan.wordpress.com"><img src="https://img.shields.io/badge/drvishnurajan-wordpress-lightgrey?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:vishnurajanme@gmail.com"><img src="https://img.shields.io/badge/vishnurajanme-%40gmail.com%20-red?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/imvishnurajan/"><img src="https://img.shields.io/badge/imvishnurajan-%20-blue?style=flat&logo=Facebook&logoColor=white"/></a>
+
+-----
+Last Edited on: 11/12/2020
