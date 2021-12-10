@@ -34,9 +34,11 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/vishnurajanme'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://drvishnurajan.wordpress.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/vishnurajanme'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+<p align="center"><a href="https://www.linkedin.com/in/vishnurajanme/"><img src="https://img.shields.io/badge/vishnurajanme-%20-lightgrey?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://drvishnurajan.wordpress.com"><img src="https://img.shields.io/badge/drvishnurajan-wordpress-lightgrey?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:vishnurajanme@gmail.com"><img src="https://img.shields.io/badge/vishnurajanme-%40gmail.com%20-red?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/imvishnurajan/"><img src="https://img.shields.io/badge/imvishnurajan-%20-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
@@ -45,13 +47,3 @@
 
 </a>
 </p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://drvishnurajan.wordpress.com"><img src="https://img.shields.io/badge/drvishnurajan-wordpress-lightgrey?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:vishnurajanme@gmail.com"><img src="https://img.shields.io/badge/vishnurajanme-%40gmail.com%20-red?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/imvishnurajan/"><img src="https://img.shields.io/badge/imvishnurajan-%20-blue?style=flat&logo=Facebook&logoColor=white"/></a>
-
------
-Last Edited on: 11/12/2020
