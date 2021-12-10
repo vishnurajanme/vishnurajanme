@@ -42,7 +42,7 @@
 <a href="https://www.facebook.com/imvishnurajan/"><img src="https://img.shields.io/badge/imvishnurajan-%20-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 
-<a href='https://play.google.com/store/apps/dev?id=5348400494762920729&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='200px'/></a>
+<p align="center"><a href='https://play.google.com/store/apps/dev?id=5348400494762920729&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='200px'/></a>
 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
