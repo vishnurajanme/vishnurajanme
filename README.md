@@ -46,4 +46,6 @@
 ![Metrics](https://metrics.lecoq.io/vishnurajanme?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
 </a>
+
+<a href='https://play.google.com/store/apps/dev?id=5348400494762920729&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 </p>
