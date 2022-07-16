@@ -33,7 +33,7 @@
 <a href= https://github.com/vishnurajanme?tab=repositories&q=&type=&language=dart&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'> </a>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me  </h2>
 
 <p align="center"><a href="https://www.linkedin.com/in/vishnurajanme/"><img src="https://img.shields.io/badge/vishnurajanme-%20-lightgrey?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://drvishnurajan.wordpress.com"><img src="https://img.shields.io/badge/drvishnurajan-wordpress-lightgrey?style=flat&logo=Google-Chrome&logoColor=white"/></a>
